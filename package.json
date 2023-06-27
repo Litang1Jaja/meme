@@ -1,0 +1,22 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^2.6.0",
+    "bitcoinjs-lib": "^6.1.1",
+    "crypto-js": "^4.1.1",
+    "ecpair": "^2.1.0",
+    "fs": "0.0.1-security",
+    "tiny-secp256k1": "^2.2.1",
+    "wif": "^2.0.6",
+    "xlsx": "^0.18.5"
+  }
+}
